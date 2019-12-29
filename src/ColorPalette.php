@@ -25,7 +25,7 @@ class ColorPalette {
 	 * @return array
 	 */
 	static public function values() {
-		$options = get_option( self::OPTION_NAME );
+		$options = get_option( self::OPTION_NAME, [] );
 
 		return array_replace( [
 			'disable_custom_colors' => !empty( $options['disable_custom_colors'] ),
