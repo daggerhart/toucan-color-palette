@@ -1,4 +1,4 @@
-=== Toucan - Gutenberg Editor Palette ===
+=== Toucan - Color Palette ===
 Contributors: daggerhart
 Tags: gutenberg, color picker, theme support, color palette
 Requires at least: 5.0
