@@ -1,0 +1,22 @@
+{
+  "name":  "daggerhart/toucan-color-palette",
+  "description": "WordPress plugin for defining colors of Gutenberg palette.",
+  "type": "wordpress-plugin",
+  "authors": [
+    {
+      "name": "Jonathan Daggerhart",
+      "email": "jonathan@daggerhart.com"
+    }
+  ],
+  "require": {
+    "cmb2/cmb2": "^2.6"
+  },
+  "autoload": {
+    "psr-4": {
+      "Toucan\\": "src/"
+    },
+    "files": [
+      "vendor/cmb2/cmb2/init.php"
+    ]
+  }
+}
