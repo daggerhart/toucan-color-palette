@@ -15,7 +15,10 @@ Photo by [Zdeněk Macháček](https://unsplash.com/@zmachacek?utm_source=unsplas
 
 ## Screenshots
 
-1. Creating your color palette on Settings > Toucan Colors page
-    ![settings page](.wordpress-org/screenshot-1.png)
-1. Custom colors shown in Gutenberg editor for text colors
-    ![editor pane](.wordpress-org/screenshot-2.png)
+Creating your color palette on Settings > Toucan Colors page
+
+![settings page](.wordpress-org/screenshot-1.png)
+
+Custom colors shown in Gutenberg editor for text colors
+
+![editor pane](.wordpress-org/screenshot-2.png)
