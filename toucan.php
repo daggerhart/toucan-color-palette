@@ -1,7 +1,7 @@
 <?php
 /*
-Plugin Name: Toucan - Color Palette
-Plugin URI: https://github.com/daggerhart/toucan
+Plugin Name: Toucan - Gutenberg Color Palette
+Plugin URI: https://github.com/daggerhart/toucan-color-palette
 Description: Customize the Gutenberg editor color palette.
 Author: Jonathan Daggerhart
 Version: 1.0
